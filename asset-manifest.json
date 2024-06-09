@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c28c337.css",
-    "main.js": "/static/js/main.1ba59079.js",
+    "main.css": "/static/css/main.d2bab3e3.css",
+    "main.js": "/static/js/main.ef515864.js",
     "static/js/453.ea8ca4cf.chunk.js": "/static/js/453.ea8ca4cf.chunk.js",
-    "static/media/thumbnail.jpeg": "/static/media/thumbnail.55157bcd7459adb85fb4.jpeg",
+    "static/media/thumbnail_1.jpeg": "/static/media/thumbnail_1.55157bcd7459adb85fb4.jpeg",
     "static/media/Minecraftia-Regular.ttf": "/static/media/Minecraftia-Regular.69fd3db14fbc8b3f7cdb.ttf",
     "static/media/kamwerks-logo.jpeg": "/static/media/kamwerks-logo.e2d3adeaa573f9912e34.jpeg",
     "static/media/exit-icon.png": "/static/media/exit-icon.5466a3b2023ac259e07b.png",
     "static/media/battery-icon.png": "/static/media/battery-icon.534c748da1996ccffc0c.png",
     "static/media/texture.png": "/static/media/texture.6d94e4688bbd63bec31d.png",
     "index.html": "/index.html",
-    "main.0c28c337.css.map": "/static/css/main.0c28c337.css.map",
-    "main.1ba59079.js.map": "/static/js/main.1ba59079.js.map",
+    "main.d2bab3e3.css.map": "/static/css/main.d2bab3e3.css.map",
+    "main.ef515864.js.map": "/static/js/main.ef515864.js.map",
     "453.ea8ca4cf.chunk.js.map": "/static/js/453.ea8ca4cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c28c337.css",
-    "static/js/main.1ba59079.js"
+    "static/css/main.d2bab3e3.css",
+    "static/js/main.ef515864.js"
   ]
 }

@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/egproject-24.github.io/static/css/main.46a927fb.css",
-    "main.js": "/egproject-24.github.io/static/js/main.8e58343f.js",
-    "static/js/453.ea8ca4cf.chunk.js": "/egproject-24.github.io/static/js/453.ea8ca4cf.chunk.js",
-    "static/media/thumbnail.jpeg": "/egproject-24.github.io/static/media/thumbnail.55157bcd7459adb85fb4.jpeg",
-    "static/media/Minecraftia-Regular.ttf": "/egproject-24.github.io/static/media/Minecraftia-Regular.69fd3db14fbc8b3f7cdb.ttf",
-    "static/media/kamwerks-logo.jpeg": "/egproject-24.github.io/static/media/kamwerks-logo.e2d3adeaa573f9912e34.jpeg",
-    "static/media/exit-icon.png": "/egproject-24.github.io/static/media/exit-icon.5466a3b2023ac259e07b.png",
-    "static/media/battery-icon.png": "/egproject-24.github.io/static/media/battery-icon.534c748da1996ccffc0c.png",
-    "static/media/texture.png": "/egproject-24.github.io/static/media/texture.6d94e4688bbd63bec31d.png",
-    "index.html": "/egproject-24.github.io/index.html",
-    "main.46a927fb.css.map": "/egproject-24.github.io/static/css/main.46a927fb.css.map",
-    "main.8e58343f.js.map": "/egproject-24.github.io/static/js/main.8e58343f.js.map",
-    "453.ea8ca4cf.chunk.js.map": "/egproject-24.github.io/static/js/453.ea8ca4cf.chunk.js.map"
+    "main.css": "/static/css/main.0c28c337.css",
+    "main.js": "/static/js/main.1ba59079.js",
+    "static/js/453.ea8ca4cf.chunk.js": "/static/js/453.ea8ca4cf.chunk.js",
+    "static/media/thumbnail.jpeg": "/static/media/thumbnail.55157bcd7459adb85fb4.jpeg",
+    "static/media/Minecraftia-Regular.ttf": "/static/media/Minecraftia-Regular.69fd3db14fbc8b3f7cdb.ttf",
+    "static/media/kamwerks-logo.jpeg": "/static/media/kamwerks-logo.e2d3adeaa573f9912e34.jpeg",
+    "static/media/exit-icon.png": "/static/media/exit-icon.5466a3b2023ac259e07b.png",
+    "static/media/battery-icon.png": "/static/media/battery-icon.534c748da1996ccffc0c.png",
+    "static/media/texture.png": "/static/media/texture.6d94e4688bbd63bec31d.png",
+    "index.html": "/index.html",
+    "main.0c28c337.css.map": "/static/css/main.0c28c337.css.map",
+    "main.1ba59079.js.map": "/static/js/main.1ba59079.js.map",
+    "453.ea8ca4cf.chunk.js.map": "/static/js/453.ea8ca4cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46a927fb.css",
-    "static/js/main.8e58343f.js"
+    "static/css/main.0c28c337.css",
+    "static/js/main.1ba59079.js"
   ]
 }

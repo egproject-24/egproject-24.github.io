@@ -10,7 +10,7 @@ body {
 
 body::before {
     content: "";
-    background: url('./texture.png') no-repeat center center;
+    background: url('./icons/texture.png') no-repeat center center;
     background-size: cover;
     position: absolute;
     top: 0;
@@ -92,6 +92,6 @@ body::before {
 
 #video-box-1
 {
-    background-image: url(./thumbnail.jpeg);
+    background-image: url(./thumbnails/thumbnail_1.jpeg);
     background-size: cover;
 }

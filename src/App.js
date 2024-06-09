@@ -2,10 +2,9 @@
 import './App.css';
 import VideoPlayer from './VideoPlayer.js';
 import React, { useState } from 'react';
-import exitIcon from './exit-icon.png';
-import kamwerks from './kamwerks-logo.jpeg';
-import battery from "./battery-icon.png";
-import thumbnail1 from "./thumbnail.jpeg"
+import exitIcon from './icons/exit-icon.png';
+import kamwerks from './icons/kamwerks-logo.jpeg';
+import battery from "./icons/battery-icon.png";
 
 const App = () => {
   const [showCams, setShowCams] = useState(true);

@@ -11,8 +11,8 @@ const App = () => {
   const [source, setSource] = useState("https://www.youtube.com/embed/K1N5GB37hgM?si=sRAiHI2ZxhXeAuJf");
   const [batteryLife, setBatteryLife] = useState(400);
 
-  let width = "1200";
-  let height = "675";
+  let width = "1000";
+  let height = "563";
 
   
   const toggleVideo = (props) => {
@@ -45,6 +45,10 @@ const App = () => {
     </div> 
     :
     <div>
+      <div className="battery">
+          <img src={battery} className="battery"/>
+            <text className="cameralife">{batteryLife} min</text>
+          </div>
       <img className="exit-icon" width="75px" src={exitIcon} onClick={toggleVideo}/>
       <VideoPlayer width={width} height={height} source={source}/>
     </div>

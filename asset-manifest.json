@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2bab3e3.css",
-    "main.js": "/static/js/main.ef515864.js",
+    "main.css": "/static/css/main.1174bdc6.css",
+    "main.js": "/static/js/main.a41c6506.js",
     "static/js/453.ea8ca4cf.chunk.js": "/static/js/453.ea8ca4cf.chunk.js",
     "static/media/thumbnail_1.jpeg": "/static/media/thumbnail_1.55157bcd7459adb85fb4.jpeg",
     "static/media/Minecraftia-Regular.ttf": "/static/media/Minecraftia-Regular.69fd3db14fbc8b3f7cdb.ttf",
@@ -10,12 +10,12 @@
     "static/media/battery-icon.png": "/static/media/battery-icon.534c748da1996ccffc0c.png",
     "static/media/texture.png": "/static/media/texture.6d94e4688bbd63bec31d.png",
     "index.html": "/index.html",
-    "main.d2bab3e3.css.map": "/static/css/main.d2bab3e3.css.map",
-    "main.ef515864.js.map": "/static/js/main.ef515864.js.map",
+    "main.1174bdc6.css.map": "/static/css/main.1174bdc6.css.map",
+    "main.a41c6506.js.map": "/static/js/main.a41c6506.js.map",
     "453.ea8ca4cf.chunk.js.map": "/static/js/453.ea8ca4cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2bab3e3.css",
-    "static/js/main.ef515864.js"
+    "static/css/main.1174bdc6.css",
+    "static/js/main.a41c6506.js"
   ]
 }

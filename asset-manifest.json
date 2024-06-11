@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.1174bdc6.css",
-    "main.js": "/static/js/main.90cc4114.js",
+    "main.css": "/static/css/main.e338231b.css",
+    "main.js": "/static/js/main.dfdc4fd7.js",
     "static/js/453.ea8ca4cf.chunk.js": "/static/js/453.ea8ca4cf.chunk.js",
-    "static/media/thumbnail_1.jpeg": "/static/media/thumbnail_1.55157bcd7459adb85fb4.jpeg",
+    "static/media/thumbnail_5.png": "/static/media/thumbnail_5.25b8f5e392a2b1f930ed.png",
+    "static/media/thumbnail_2.png": "/static/media/thumbnail_2.3b9f5d740a37c9756caa.png",
+    "static/media/thumbnail_7.png": "/static/media/thumbnail_7.3da6b6d6fa21697e8ac6.png",
+    "static/media/thumbnail_1.jpeg": "/static/media/thumbnail_1.6874a0511c8cf2fd6389.jpeg",
+    "static/media/thumbnail_6.jpeg": "/static/media/thumbnail_6.61dd65c311ea5aa8091c.jpeg",
+    "static/media/thumbnail_3.jpeg": "/static/media/thumbnail_3.21d844df30159ac1d2bb.jpeg",
+    "static/media/thumbnail_8.jpeg": "/static/media/thumbnail_8.1f8cb3a913464d871680.jpeg",
     "static/media/Minecraftia-Regular.ttf": "/static/media/Minecraftia-Regular.69fd3db14fbc8b3f7cdb.ttf",
     "static/media/kamwerks-logo.jpeg": "/static/media/kamwerks-logo.e2d3adeaa573f9912e34.jpeg",
+    "static/media/thumbnail_4.jpeg": "/static/media/thumbnail_4.c00a06d6d1ebc8876962.jpeg",
     "static/media/exit-icon.png": "/static/media/exit-icon.5466a3b2023ac259e07b.png",
     "static/media/battery-icon.png": "/static/media/battery-icon.534c748da1996ccffc0c.png",
     "static/media/texture.png": "/static/media/texture.6d94e4688bbd63bec31d.png",
     "index.html": "/index.html",
-    "main.1174bdc6.css.map": "/static/css/main.1174bdc6.css.map",
-    "main.90cc4114.js.map": "/static/js/main.90cc4114.js.map",
+    "main.e338231b.css.map": "/static/css/main.e338231b.css.map",
+    "main.dfdc4fd7.js.map": "/static/js/main.dfdc4fd7.js.map",
     "453.ea8ca4cf.chunk.js.map": "/static/js/453.ea8ca4cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1174bdc6.css",
-    "static/js/main.90cc4114.js"
+    "static/css/main.e338231b.css",
+    "static/js/main.dfdc4fd7.js"
   ]
 }
